@@ -1,0 +1,41 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.proyectos {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.proyectos a {
+  color: black;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.proyectos a:hover {
+  color: gray;
+}
+
+.newproject {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.home {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.update-project {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.update-project button {
+  margin-top: 20px;
+}
